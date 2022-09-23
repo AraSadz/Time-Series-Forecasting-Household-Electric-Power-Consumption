@@ -18,4 +18,4 @@ DNN Time Series Forecasting Model\
 Choose Learning Rate\
 Train NN\
 LSTM Time Series Forecasting Model\
-LSTM-Conv1D Time Series Forecasting Model\
+LSTM-Conv1D Time Series Forecasting Model
