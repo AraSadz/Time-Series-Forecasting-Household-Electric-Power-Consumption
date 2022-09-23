@@ -3,7 +3,7 @@
 Time Series Forecasting: Household Electric Power Consumption
 Author: Arash Sadeghzadeh
 
-The data for this norebook can be retrieved from the following URL: 
+The data for this norebook can be retrieved from the following URL: \
 https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set
 
 In this notebook, we consider the problem of time series forecasting using DNN, LSTM, and LSTM with CONV1D.
